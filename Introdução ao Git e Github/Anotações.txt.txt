@@ -1,0 +1,5 @@
+o Git bash é um terminal extendido para otimizar o uso do git.
+instruções sobre o git bash:
+Abra o terminal de comando do seu sistema operacional;
+Dentro da pasta do projeto, digite: git init. ...
+Para adicionar todos os arquivos alterados à fila de atualizações do repositório, execute o comando: git add .

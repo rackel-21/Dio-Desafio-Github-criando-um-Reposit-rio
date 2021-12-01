@@ -1,2 +1,4 @@
-# Dio-Desafio-Github-criando-um-Reposit-rio
-Projeto (desafio Git /Github)
+#  Desafio Git/Github DIO
+Repositório criado para o  projeto (desafio Git /Github) da DIO
+
+##Links úteis
